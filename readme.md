@@ -82,5 +82,3 @@ Claro, puedo ayudarte a crear una prueba técnica para un desarrollador de bases
    Explica cómo utilizarías el plan de ejecución (EXPLAIN en MySQL, EXPLAIN PLAN en Oracle) para identificar cuellos de botella en una consulta SQL. Proporciona un ejemplo de una consulta y cómo interpretarías su plan de ejecución.
 
 ---
-
-Espero que esta prueba técnica te sea útil. Si necesitas ajustes o tienes alguna pregunta adicional, no dudes en decírmelo.
